@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hey! I'm SherryMLMOM!
+I'm Sherry!
 
-<!--
-**SherryMLMOM/sherrymlmom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### More About Me
+💖  Creator and Maintainer of the [Title](link) 💖 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻  PM, [Title](link) | Stuff
+
+🎙 
+
+🐦  
+
+📷  
+
+#### ⚡ Fun facts 
+* I [title](link) 
+
+### Latest Personal Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Title](link)
+
+<!-- BLOG-POST-LIST:END -->
+
+### Latest Highlights
+<!-- OPENSAUCED_START -->
+<!-- This section will be automatically updated -->
+<!-- OPENSAUCED_END -->
