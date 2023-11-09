@@ -1,4 +1,4 @@
-## Hey! I'm SherryMLMOM!
+## Hey! I'm SherryML!
 I'm Sherry!
 
 
